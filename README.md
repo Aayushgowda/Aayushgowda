@@ -13,7 +13,7 @@ Passionate about .NET, web development, and animation. Currently working on a mo
 
 🔹 Modern Website
 🔹 YouTube Clone 
-🔹 Tortoise vs. Rabbit Animation
+🔹 Animations
 
 📚 Learning & Goals
 
