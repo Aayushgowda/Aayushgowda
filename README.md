@@ -1,37 +1,4 @@
- Hi, I'm Ayush!
 
-🎓 BCA Student | Aspiring Developer | Quick Learner
-
-Passionate about .NET, web development, and animation. Currently working on a modern website project and improving my skills in C#, multimedia, and OS concepts.
-
-🚀 Tech Skills
-
-🔹 Languages: C#, .NET, HTML, CSS,Java-script, python 
-🔹 Other: git,prompt engineering, Krita (2D Animation), Research
-
-📌 Projects
-
-🔹 Modern Website
-🔹 YouTube Clone 
-🔹 Video trimmer
-🔹 Simple portfolio web
-🔹 Animations
-
-
-
-📚 Learning & Goals
-
-✔ Mastering .NET.
-✔ Learning Python 
-✔ Enhancing English communication
-✔ Building a strong portfolio 
-✔ quick learner
-
-
-
-📫 Connect with Me
-
-📧 Email: ayushhnayush@gmail.com| 🌐 LinkedIn: https://www.linkedin.com/in/ayush-gowda-49b88b2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 # 💫 About Me:
 Hi, I'm Ayush!<br><br>🎓 BCA Student | Aspiring Developer | Quick Learner<br><br>Passionate about .NET, web development, and animation. Currently working on a modern website project and improving my skills in C#, multimedia, and OS concepts.<br><br>🚀 Tech Skills<br><br>🔹 Languages: C#, .NET, HTML, CSS,Java-script, python <br>🔹 Other: git,prompt engineering, Krita (2D Animation), Research<br><br>📌 Projects<br><br>🔹 Modern Website<br>🔹 YouTube Clone <br>🔹 Video trimmer<br>🔹 Simple portfolio web<br>🔹 Animations<br><br><br><br>📚 Learning & Goals<br><br>✔ Mastering .NET.<br>✔ Learning Python <br>✔ Enhancing English communication<br>✔ Building a strong portfolio <br>✔ quick learner<br><br><br><br>📫 Connect with Me<br><br>📧 Email: ayushhnayush@gmail.com| 🌐 LinkedIn: https://www.linkedin.com/in/ayush-gowda-49b88b2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app<br>
 
