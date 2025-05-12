@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi, I'm Ayush!<br><br>🎓 BCA Student | Aspiring Developer | Quick Learner<br><br>Passionate about .NET, web development, and animation. Currently working on a modern website project and improving my skills in C#, multimedia, and OS concepts.<br><br>🚀 Tech Skills<br><br>🔹 Languages: C#, .NET, HTML, CSS,Java-script, python <br>🔹 Other: git,prompt engineering, Krita (2D Animation), Research<br><br>📌 Projects<br><br>🔹 Modern Website<br>🔹 YouTube Clone <br>🔹 Video trimmer<br>🔹 Simple portfolio web<br>🔹 Animations<br><br><br><br>📚 Learning & Goals<br><br>✔ Mastering .NET.<br>✔ Learning Python <br>✔ Enhancing English communication<br>✔ Building a strong portfolio <br>✔ quick learner<br><br><br><br>
+Hi, I'm Ayush!<br><br>🎓 BCA Student | Aspiring Developer | Quick Learner<br><br>Passionate about .NET, web development, and animation. Currently working on a modern website project and improving my skills in C#, multimedia, and OS concepts.<br><br>🚀 Tech Skills<br><br>🔹 Languages: C#, .NET, HTML, CSS,Java-script, python <br>🔹 Other: git,prompt engineering, Krita (2D Animation), Research<br><br>📌 Projects<br><br>🔹  <br>🔹 Video trimmer<br>🔹 Simple portfolio web<br>🔹 Animations<br><br><br><br>📚 Learning & Goals<br><br>✔ Mastering .NET.<br>✔ Learning Python <br>✔ Enhancing English communication<br>✔ Building a strong portfolio <br>✔ quick learner<br><br><br><br>
 
 
 ## 🌐 Socials:
