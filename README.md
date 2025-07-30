@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi, I'm Ayush!<br><br>🎓 BCA Student  Quick Learner<br><br>Passionate about web development,Currently working on a modern website UI/UX devolop and improving my skills in  multimedia, and OS concepts.<br><br>🚀 Tech Skills<br><br>🔹 Languages: python, HTML, CSS,<br>🔹 Other: github,prompt engineering, UI/UX designer, Research<br><br>📌 Projects<br><br><br>🔹 Video trimmer<br>🔹 Simple portfolio web<br><br><br><br>📚 Learning & Goals<br><br>UI/UX Designer<br><br>✔Python <br>✔ Enhancing English communication<br>✔ Building a strong portfolio <br>✔ quick learner<br><br><br><br>
+Hi, I'm Ayush!<br><br>🎓 BCA Student  Quick Learner<br><br>Passionate about web development,Currently working on a modern website UI/UX devolop and improving my skills in  multimedia, and OS concepts.<br><br>🚀 Tech Skills<br><br>🔹 Languages: python, HTML, CSS,<br>🔹 Other: github,prompt engineering, UI/UX designer, Research<br><br>📌 Projects<br><br><br>🔹 Video trimmer<br>🔹 Simple portfolio web<br> 🔹 Offline-Voice-Assistant<br>🔹IPL Data Analysis<br><br><br>📚 Learning & Goals<br><br>✔ UI/UX Designer<br><br>✔Python <br>✔ Enhancing English communication<br>✔ Building a strong portfolio <br>✔ quick learner<br><br><br><br>
 
 
 ## 🌐 Socials:
