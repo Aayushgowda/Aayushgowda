@@ -1,17 +1,93 @@
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Ayush H N</strong>
+</h1>
+
+<h3>Full Stack Developer | Python • Web Devoloper</h3>
+
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:ayushhnayush@gmail.com"><img src="https://img.shields.io/badge/📧_ayushhnayush@gmail.com-1e1e2e?style=for-the-badge" /></a>
+  </p>
+
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://github.com/Aayushgowda">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/ayushh__gowda?igsh=dDZnZDVrOWxwbThr">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ayush-h-n">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+</p>
+
+</div>
+
+<br clear="all" />
 
 
-Hi, I'm Ayush!<br><br>🎓 BCA Student<br>Passionate about web development,Currently working on a modern website UI/UX devolop and improving my skills in  multimedia, and OS concepts.<br><br>🚀 Tech Skills<br><br>🔹 Languages: python, HTML, CSS,<br>🔹 Other: github,prompt engineering, UI/UX designer, Research<br><br>📌 Projects<br><br><br>🔹 Video trimmer<br>🔹 Simple portfolio web<br> 🔹 Offline-Voice-Assistant<br>🔹IPL Data Analysis<br><br><br>📚 Learning & Goals<br><br>✔ UI/UX Designer<br><br>✔Python <br>✔ Enhancing English communication<br>✔ Building a strong portfolio <br>✔ quick learner<br><br><br><br>
+## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,c" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,flutter,bootstrap" />
+</td>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aayush_gowda?igsh=dDZnZDVrOWxwbThr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-gowda-49b88b2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushhnayush@gmail.com) 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<br/><br/>
 
-[![](https://visitcount.itsvg.in/api?id=Aayushgowda&icon=0&color=0)](https://visitcount.itsvg.in)
+</td>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,andriodstudio" />
+</td>
+</tr>
+</table>
+</p>
 
 
+
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Aayushgowda&theme=dark&hide_border=true" alt="Streak" />
+</div>
+
+---
 
