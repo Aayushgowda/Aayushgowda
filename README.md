@@ -26,11 +26,11 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/ayushh__gowda?igsh=dDZnZDVrOWxwbThr">
+  <a href="https://www.instagram.com/ayushh__gowda?igsh=dDZnZDVrOWxwbTh">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/ayush-h-n">
+  <a href="https://www.linkedin.com/ayush-h-n-49b88b2aa?">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
